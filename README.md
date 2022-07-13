@@ -1,6 +1,9 @@
 printf
+
 The printf() is a library function to send formatted output to the screen. The function prints the string inside quotations.A team project on printf by ALX would help us understand the concept and its applications.
+
 Synopsis
+
 This function _printf() writes output to stdout, the standard output stream with the format and options without making use of any of the standard library files. It was written to use a local buffer of 1024 bytes when printing although it can print larger sets of data.
 
 The _printf() function returns the total number of characters printed to the stdout(excluding the null byte at the end of strings) after a successful execution.
